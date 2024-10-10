@@ -1,5 +1,9 @@
+
+
+
 // EXERCISE 1: Selecting Elements
 // Select the element with the ID 'mainTitle' and log it to the console.
+let elements = document.getElementById("mainTitle");
 
 
 
